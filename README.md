@@ -4,8 +4,8 @@ I was told it would be suitable to demonstrate the proper way to lead this explo
 Steps:
 1) Go to Pennsylvania State Univeristy ICDS Roar (https://icds.psu.edu/).
 2) Click the ROAR Portal Button on the top right.
-3) When signed-in, navigate on the left bar to JupyterLabs
-4) For options, choose JupyterLabs, switch the collection to 'data science collection'
+3) When signed-in, click the large square saying 'Interactiuve Desktop' and navigate on the left bar to 'Jupyter'
+4) For options, choose JupyterLabs for Jupyter Interface, using 'pre-built RISE environment' for environment type, and switch the environment itself to 'data science collection'
 5) Choose the time (likely less than an hour for someone just running it) and choose 4-6 cores and at least 8gb of memory for smooth usage.
 6) Create a new folder and upload the dataset csv and the brfss_code file into it. At the top of the code file there are a list of imports. If you are lacking any, click the + button on the top left and open up a terminal session.
 7) Use 'pip install <name of import>' to install missing imports.
